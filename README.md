@@ -14,5 +14,4 @@ Additionally, the program provides information on user types, including the numb
 CSV files are used for data
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+All credits to udacity repository
